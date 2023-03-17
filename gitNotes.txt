@@ -1,0 +1,11 @@
+git init :
+used to initialise the reository[A[B[D[Dr[C[D[D[D[D[D[D[D[2~pository
+git status:
+		[D[Dused to status of [D[Dgive current status about files
+git add :
+		[D[Dused to add files to staging stage 
+[D[D[D[D[D[D[Deg: git add filename.txt
+git commit :  
+		[D[Dused to commit the file to final stage
+rm -rf .git 
+		used to remove the git folder completely
