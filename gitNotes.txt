@@ -9,3 +9,7 @@ git commit :
 		[D[Dused to commit the file to final stage
 rm -rf .git 
 		used to remove the git folder completely
+git checkout -b branchname :
+				used to create a branch and position cursor to that branch
+git checkout filename :
+			used to revert back to last commit file
