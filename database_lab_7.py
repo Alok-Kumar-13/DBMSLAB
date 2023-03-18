@@ -180,7 +180,7 @@ repo = Repo.init(repo_path)
 repo.index.add(['database_lab_7.py'])
 
 # Commit the changes
-repo.index.commit('Add database.py')
+repo.index.commit('Add database_lab_7.py')
 
 # Push the changes to GitHub
 origin = repo.remote(name='origin')
