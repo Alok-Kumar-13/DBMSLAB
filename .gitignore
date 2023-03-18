@@ -1,3 +1,5 @@
 *.bmp   
 dir/
 shet.xlsx
+*.ipynb_checkpoints
+*.ipynb
