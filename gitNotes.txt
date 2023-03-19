@@ -1,3 +1,4 @@
+link : https://education.github.com/git-cheat-sheet-education.pdf
 SETUP
 Configuring user information used across all local repositories
 
@@ -85,3 +86,4 @@ Transmit local branch commits to the remote repository branch
 
 git pull
 fetch and merge any commits from the tracking remote branch
+
