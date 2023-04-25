@@ -1,0 +1,121 @@
+Book Title,Author Name,Publication_Date,Popularity_Score,Issued
+The Great Gatsby,F. Scott Fitzgerald,1925,8,1
+To Kill a Mockingbird,Harper Lee,1960,9,1
+1984,George Orwell,1949,7,1
+The Catcher in the Rye,J.D. Salinger,1951,6,1
+Pride and Prejudice,Jane Austen,1813,8,1
+The Hobbit,J.R.R. Tolkien,1937,9,1
+The Hunger Games,Suzanne Collins,2008,10,1
+Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,9,1
+The Da Vinci Code,Dan Brown,2003,6,1
+The Girl with the Dragon Tattoo,Stieg Larsson,2005,7,1
+To Kill a Mockingbird,Harper Lee,1960,9,1
+The Catcher in the Rye,J.D. Salinger,1951,6,1
+The Hobbit,J.R.R. Tolkien,1937,9,1
+The Hunger Games,Suzanne Collins,2008,10,1
+Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,8,1
+The Fellowship of the Ring,J.R.R. Tolkien,1954,8,1
+The Catcher in the Rye,J.D. Salinger,1951,6,1
+The Da Vinci Code,Dan Brown,2003,6,1
+The Girl with the Dragon Tattoo,Stieg Larsson,2005,7,1
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,9,1
+The Lord of the Rings,J.R.R. Tolkien,1954,9,1
+Animal Farm,George Orwell,1945,7,1
+The Adventures of Huckleberry Finn,Mark Twain,1884,8,1
+The Diary of a Young Girl,Anne Frank,1947,9,1
+The Shining,Stephen King,1977,7,1
+The Picture of Dorian Gray,Oscar Wilde,1890,8,1
+The Outsiders,S.E. Hinton,1967,7,1
+The Godfather,Mario Puzo,1969,8,1
+The Count of Monte Cristo,Alexandre Dumas,1844,8,1
+Brave New World,Aldous Huxley,1932,7,1
+Moby-Dick,Herman Melville,1851,8,1
+Frankenstein,Mary Shelley,1818,7,1
+The War of the Worlds,H.G. Wells,1898,6,1
+One Hundred Years of Solitude,Gabriel Garcaa Mairquez,1967,9,1
+The Adventures of Tom Sawyer,Mark Twain,1876,7,1
+The Divine Comedy,Dante Alighieri,1320,8,1
+Don Quixote,Miguel de Cervantes,1605,8,1
+Les Misrables,Victor Hugo,1862,9,1
+The Picture of Dorian Gray,Oscar Wilde,1890,8,1
+The Prince,Niccola Machiavelli,1532,7,1
+A Brief History of Time,Stephen Hawking,1988,8,1
+The Selfish Gene,Richard Dawkins,1976,7,1
+The Double Helix,James D. Watson,1968,7,1
+The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,6,1
+The Origin of Species,Charles Darwin,1859,9,1
+The Elegant Universe,Brian Greene,1999,8,1
+The Demon-Haunted World,Carl Sagan,1996,9,1
+The Blind Watchmaker,Richard Dawkins,1986,7,1
+The Emperor's New Mind,Roger Penrose,1989,6,1
+The Ancestor's Tale,Richard Dawkins,2004,7,1
+The Fabric of the Cosmos,Brian Greene,2004,8,0
+The Grand Design,Stephen Hawking and Leonard Mlodinow,2010,7,0
+The Origin of Consciousness in the Breakdown of the Bicameral Mind,Julian Jaynes,1976,6,0
+The Selfish Gene,Richard Dawkins,1976,7,0
+The Magic of Reality,Richard Dawkins,2011,8,0
+The Greatest Show on Earth,Richard Dawkins,2009,9,0
+The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,6,0
+The Voyage of the Beagle,Charles Darwin,1839,8,0
+The Origin of Species,Charles Darwin,1859,9,0
+The Descent of Man,Charles Darwin,1871,7,0
+The Origin of Consciousness in the Breakdown of the Bicameral Mind,Julian Jaynes,1976,6,0
+The Blind Watchmaker,Richard Dawkins,1986,7,0
+The Demon-Haunted World,Carl Sagan,1996,9,0
+The Fabric of the Cosmos,Brian Greene,2004,8,0
+The God Delusion,Richard Dawkins,2006,9,0
+The Ancestor's Tale,Richard Dawkins,2004,7,0
+The Elegant Universe,Brian Greene,1999,8,0
+The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,6,0
+The Grand Design,Stephen Hawking and Leonard Mlodinow,2010,7,0
+The Origin of Consciousness in the Breakdown of the Bicameral Mind,Julian Jaynes,1976,6,0
+The Selfish Gene,Richard Dawkins,1976,7,0
+The Double Helix,James D. Watson,1968,7,0
+The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,6,0
+The Elegant Universe,Brian Greene,1999,8,0
+The Grand Design,Stephen Hawking and Leonard Mlodinow,2010,7,0
+The Fabric of the Cosmos,Brian Greene,2004,8,0
+The God Delusion,Richard Dawkins,2006,9,0
+The Ancestor's Tale,Richard Dawkins,2004,7,0
+The Demon-Haunted World,Carl Sagan,1996,9,0
+The Blind Watchmaker,Richard Dawkins,1986,7,0
+Silent Spring,Rachel Carson,1962,9,1
+The Sixth Extinction: An Unnatural History,Elizabeth Kolbert,2014,8,1
+This Changes Everything: Capitalism vs. The Climate,Naomi Klein,2014,7,1
+The Water Will Come,Jeff Goodell,2017,8,1
+The Uninhabitable Earth: Life After Warming,David Wallace-Wells,2019,9,1
+Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming,Paul Hawken,2017,8,1
+The End of Nature,Bill McKibben,1989,7,1
+The Future We Choose: Surviving the Climate Crisis,Christiana Figueres,2020,8,1
+The Overspent American: Why We Want What We Don't Need,Juliet B. Schor,1998,6,1
+The Lorax,Dr. Seuss,1971,7,1
+The Ecology of Commerce: A Declaration of Sustainability,Paul Hawken,1993,8,1
+The World Without Us,Alan Weisman,2007,9,1
+Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,2005,8,1
+The Sixth Extinction: Patterns of Life and the Future of Humankind,Richard E. Leakey,1995,7,1
+The Sustainable MBA: A Business Guide to Sustainability, Giselle Weybrecht,2013,8,1
+The Ecology of Wisdom: Writings by Arne Naess,Arne Naess,2010,9,1
+Deep Ecology for the Twenty-First Century,George Sessions,1995,7,1
+The Earth Book for Kids: Activities to Help Heal the Environment,Linda Schwartz,1999,7,1
+A Sand County Almanac: With Other Essays on Conservation from Round River,Aldo Leopold,1949,8,1
+The End of Ice: Bearing Witness and Finding Meaning in the Path of Climate Disruption,Dahr Jamail,2019,9,1
+Walden,Henry David Thoreau,1854,8,0
+The Hype About Hydrogen: Fact and Fiction in the Race to Save the Climate,Joseph J. Romm,2005,8,0
+Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin,2008,9,0
+The Design of Everyday Things, Don Norman,1988,7,0
+The Algorithm Design Manual, Steven S. Skiena,1998,8,0
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, Eric Ries,2011,9,0
+The Art of Computer Programming, Donald E. Knuth,1968,6,0
+Code Complete: A Practical Handbook of Software Construction, Steve McConnell,1993,9,0
+Introduction to Algorithms, Thomas H. Cormen,1990,8,0
+The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary, Eric S. Raymond,1999,7,0
+Refactoring: Improving the Design of Existing Code, Martin Fowler,1999,9,0
+The Myths of Innovation, Scott Berkun,2007,7,0
+The Art of Deception: Controlling the Human Element of Security, Kevin D. Mitnick and William L. Simon,2002,8,0
+The Practice of Programming, Brian W. Kernighan and Rob Pike,1999,8,0
+The C Programming Language, Brian W. Kernighan and Dennis M. Ritchie,1978,9,0
+Don't Make Me Think: A Common Sense Approach to Web Usability, Steve Krug,2000,9,0
+User Story Mapping: Discover the Whole Story  Build the Right Product, Jeff Patton and Peter Economy,2017,7,0
+The Goal: A Process of Ongoing Improvement, Eliyahu M. Goldratt and Jeff Cox,1984,8,0
+The Pragmatic Programmer: From Journeyman to Master, Andrew Hunt and David Thomas,1999,9,0
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable Scalable , Martin Kleppmann,2017,8,0
